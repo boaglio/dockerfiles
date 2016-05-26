@@ -1,8 +1,12 @@
 # Tor + Apache 
 --------------------
+
 Tor Project: Anonymity Online - https://www.torproject.org/
+
 The Number One HTTP Server On The Internet - https://httpd.apache.org/
+
 anonymizing relay monitor (arm) - https://www.atagar.com/arm/
+
 --------------------
 
 Fire up with run-docker-tor-with-apache.sh  script:
