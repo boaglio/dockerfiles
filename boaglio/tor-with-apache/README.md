@@ -40,5 +40,13 @@ ARM monitor...
 
 ```
 
-You can use your *Tor Browser* to access the generated URL and monitor the traffic with ARM.
+
+You can use your *Tor Browser* to access the generated URL :
+
+![alt Tor Browser](https://github.com/boaglio/dockerfiles/raw/master/boaglio/tor-with-apache/tor1.png)
+
+And then monitor the traffic with *ARM*:
+
+![alt ARM](https://github.com/boaglio/dockerfiles/raw/master/boaglio/tor-with-apache/arm.png)
+
 
