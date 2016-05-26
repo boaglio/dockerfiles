@@ -9,11 +9,11 @@ anonymizing relay monitor (arm) - https://www.atagar.com/arm/
 
 --------------------
 
-Fire up with run-docker-tor-with-apache.sh  script:
+Fire up with *run-docker-tor-with-apache.sh*  script:
 
 
 ```sh
-$ ./sobe-docker-tor-with-apache2.sh 
+$ ./sobe-docker-tor-with-apache.sh 
 ----------------------------------------------
 Bulding docker image
 ----------------------------------------------
