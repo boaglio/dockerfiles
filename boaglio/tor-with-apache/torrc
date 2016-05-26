@@ -1,0 +1,17 @@
+#
+# Tor + Apache
+#
+
+PIDFile /var/run/tor/tor.pid
+
+SOCKSPort 9050 
+SOCKSPort 127.0.0.1:9100 
+
+ORPort 9001
+
+Log notice syslog
+
+DataDirectory /var/lib/tor/data
+
+HiddenServiceDir /var/lib/tor/http/
+HiddenServicePort 80 127.0.0.1:80
