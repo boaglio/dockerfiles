@@ -17,7 +17,7 @@ Bulding docker image
 ...
 ```
 
-Downloads files will be available in your local diretory */tmp/download* but you can change it:
+Downloaded files will be available in your local diretory */tmp/download* but you can change it:
 
 
 ```sh
